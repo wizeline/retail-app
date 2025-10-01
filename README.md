@@ -96,23 +96,10 @@ Web-based application.
 4. Production SaaS: Multi-tenant architecture and analytics suite
 5. Expansion: Enterprise features, predictive analytics, global deployment
 
-## 8. Business Model (Optional)
+## 8. Business Model
 
 ### 8.1 Revenue Strategy
 - SaaS subscription model
-
-### 8.2 Pricing Tiers
-- Basic: $99/month
-- Pro: $499/month
-- Enterprise: Custom pricing
-
-### 8.3 Financial Projections
-- Up to 30% increase in sales revenue per client
-- High ROI for enterprise clients
-
-### 8.4 Customer Acquisition
-- Direct sales to retail chains
-- Partnerships with retail tech integrators
 
 ## 9. Go-to-Market Strategy
 
